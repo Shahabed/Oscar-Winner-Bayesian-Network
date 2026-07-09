@@ -1,0 +1,11 @@
+Genre,IMDB_Rating,Metacritic,Box_Office,Director_Prestige,Other_Awards_Won,Oscar_Nominations,Oscar_Wins
+Drama,8.3,90,450000000,High,8,13,7
+Biography,7.8,85,320000000,High,6,10,4
+Action,7.5,78,680000000,Medium,3,6,2
+Drama,8.1,88,180000000,High,7,11,5
+Comedy,6.9,65,250000000,Medium,2,4,1
+Sci-Fi,8.5,92,380000000,High,9,12,6
+Drama,7.6,82,150000000,Medium,4,7,3
+Biography,8.0,87,420000000,High,5,9,4
+Action,7.2,70,520000000,Medium,2,5,1
+Drama,8.4,91,290000000,High,8,14,7
