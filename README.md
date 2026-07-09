@@ -19,3 +19,16 @@ oscar-winner-bayesian-network/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+
+## Key Features
+
+- Expert-defined Bayesian Network structure
+- Uses `pgmpy` library
+- Bayesian Parameter Estimation
+- Probabilistic inference
+- Reproducible and well-documented code
+
+## Installation
+
+```bash
+pip install -r requirements.txt
