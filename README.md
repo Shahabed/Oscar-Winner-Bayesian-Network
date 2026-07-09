@@ -8,6 +8,7 @@ The goal of this project is to model the complex relationships between various f
 
 In the 2024 Oscars, the model correctly predicted that *Oppenheimer* would be the big winner, forecasting 9 wins while the film ultimately secured 7 awards.
 
+
 ## Repository Structure
 oscar-winner-bayesian-network/
 ├── data/
@@ -19,6 +20,7 @@ oscar-winner-bayesian-network/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+
 
 ## Key Features
 
