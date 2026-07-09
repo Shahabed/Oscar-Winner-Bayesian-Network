@@ -1,5 +1,5 @@
 """
-Expert-level Bayesian Network for Oscar Winner Prediction
+Bayesian Network for Oscar Winner Prediction
 """
 
 import pandas as pd
